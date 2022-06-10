@@ -1,0 +1,4 @@
+- 👋 HIIII, my name is Joey but I usually go by Oky or Okythoos
+- 👀 My interests are primarily gaming, anything techy, and music - https://open.spotify.com/user/uvqlqilh0dizk160bo820yucb
+- 🌱 I’m currently learning Java, Git, Python, and Javasc in the same time
+- 📫 https://beacons.ai/joeeefps
