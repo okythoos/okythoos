@@ -1,4 +1,4 @@
-- 👋 HIIII, my name is Joey but I usually go by Oky or Okythoos
+- 👋 HIIII, my name is Joey but I usually go by Oky or Okythoos, I'm 17 and I love playing video games, pretty much anything computers. I aspire to be a Co Sci Major in the future and I will work my hardest to get there.
 - 👀 My interests are primarily gaming, anything techy, and music - https://open.spotify.com/user/uvqlqilh0dizk160bo820yucb
-- 🌱 I’m currently learning Java, Git, Python, and Javasc in the same time
+- 🌱 I’m currently learning C++, Java, and data structuring.
 - 📫 https://beacons.ai/joeeefps
